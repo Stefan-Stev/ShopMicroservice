@@ -22,7 +22,11 @@ namespace WebAPI.Controllers.v1
             return Ok(await mediator.Send(command));
         }
 
-
+        [HttpGet]
+        public async Task<IActionResult> Get()
+        {
+            return Ok(await mediator.Send(new GetShopsQuery()));
+        }
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
