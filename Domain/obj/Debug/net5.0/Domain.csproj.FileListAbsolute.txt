@@ -1,0 +1,12 @@
+D:\.net\ShopMicroservice\ShopMicroservice\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\.net\ShopMicroservice\ShopMicroservice\Domain\bin\Debug\net5.0\Domain.dll
+D:\.net\ShopMicroservice\ShopMicroservice\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\.net\ShopMicroservice\ShopMicroservice\Domain\bin\Debug\net5.0\Domain.pdb
+D:\.net\ShopMicroservice\ShopMicroservice\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+D:\.net\ShopMicroservice\ShopMicroservice\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ShopMicroservice\ShopMicroservice\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\.net\ShopMicroservice\ShopMicroservice\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\.net\ShopMicroservice\ShopMicroservice\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\.net\ShopMicroservice\ShopMicroservice\Domain\obj\Debug\net5.0\Domain.dll
+D:\.net\ShopMicroservice\ShopMicroservice\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\.net\ShopMicroservice\ShopMicroservice\Domain\obj\Debug\net5.0\Domain.pdb

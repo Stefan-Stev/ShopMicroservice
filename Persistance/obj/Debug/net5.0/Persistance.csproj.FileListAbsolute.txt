@@ -1,0 +1,17 @@
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\bin\Debug\net5.0\Persistance.deps.json
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\bin\Debug\net5.0\Persistance.dll
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\bin\Debug\net5.0\ref\Persistance.dll
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\bin\Debug\net5.0\Persistance.pdb
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\bin\Debug\net5.0\Application.dll
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\bin\Debug\net5.0\Domain.dll
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\bin\Debug\net5.0\Application.pdb
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\bin\Debug\net5.0\Domain.pdb
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\obj\Debug\net5.0\Persistance.csprojAssemblyReference.cache
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\obj\Debug\net5.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfoInputs.cache
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfo.cs
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\obj\Debug\net5.0\Persistance.csproj.CoreCompileInputs.cache
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\obj\Debug\net5.0\Persistance.csproj.CopyComplete
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\obj\Debug\net5.0\Persistance.dll
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\obj\Debug\net5.0\ref\Persistance.dll
+D:\.net\ShopMicroservice\ShopMicroservice\Persistance\obj\Debug\net5.0\Persistance.pdb
